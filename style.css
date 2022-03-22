@@ -1,0 +1,40 @@
+body
+{
+background-color: darkblue;
+color:yellow;
+font-family: 'Playfair Display', serif;
+}
+.header_div
+{
+    background-color: rgb(148, 17, 235);
+    color: black;    
+}
+.header_div p
+{
+font-family:roboto;
+color:darkgray;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+.main_div button
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-top: 30px;
+width: 150px;
+font-weight: bolder;
+letter-spacing: 3px;
+color:black
+}
+.copy_rightfooter
+{
+    position: fixed;
+    color: white;
+    bottom:0;
+    background-color: darkgreen;
+    font-size: 18px;
+    width:100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
